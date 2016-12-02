@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/arlynzezzie/arlynramos-portfolio/issues"
   },
-  "homepage": "https://github.com/arlynzezzie/arlynramos-portfolio#readme"
+  "homepage": "https://github.com/arlynzezzie/arlynramos-portfolio#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-sass": "^2.3.2"
+  }
 }

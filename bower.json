@@ -1,0 +1,24 @@
+{
+  "name": "arlynramos-portfolio",
+  "description": "My portfolio website",
+  "main": "index.js",
+  "authors": [
+    "Arlyn Ramos"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "portfolio"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "^5.5.3"
+  }
+}
